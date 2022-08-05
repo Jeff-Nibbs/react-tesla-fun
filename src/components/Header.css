@@ -3,11 +3,13 @@
   background-color: transparent;
   background: none;
   position: fixed;
-  width: 100vw;
+  width: 99vw;
   top: 0;
   margin: 15px;
   margin-top: 15px;
   z-index: 100;
+  font-size: 16px;
+  font-weight: 500;
 }
 
 .header__logo {
@@ -24,7 +26,7 @@
 
 .header__center p {
   margin: 10px;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .header__right {

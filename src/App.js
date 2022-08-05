@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <div className="app__itemContainer">
+      <div className="app__itemsContainer">
         <Item
           title="Model 3"
           desc="Order Online for Touchless Delivery"
